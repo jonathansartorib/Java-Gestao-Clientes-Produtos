@@ -11,7 +11,7 @@ Este projeto é um sistema de gestão desenvolvido em Java com a arquitetura MVC
 
 ## Configuração do Banco de Dados
 
-Certifique-se de configurar corretamente o banco de dados MySQL antes de executar o projeto. O script SQL para criar as tabelas está disponível no arquivo `gestao_vendas.sql` na pasta raiz do projeto.
+Certifique-se de configurar corretamente o banco de dados MySQL antes de executar o projeto. Você pode encontrar o script SQL no arquivo [gestao_vendas.sql](https://github.com/jonathansartorib/Java-Gestao-Clientes-Produtos/blob/main/Sistema_gestao_de_vendas/gestao_vendas.sql) no diretório do projeto.
 
 ## Diagrama do Banco de Dados
 <br/>

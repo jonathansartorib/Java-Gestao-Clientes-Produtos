@@ -2,6 +2,18 @@
 
 Este projeto é um sistema de gestão desenvolvido em Java com a arquitetura MVC. Ele oferece recursos para controle de clientes, categorias de produtos, produtos, usuários, vendas e detalhes das vendas.
 
+<br/>
+
+<p align="center">
+  <img src="https://github.com/jonathansartorib/Java-Gestao-Clientes-Produtos/blob/main/Sistema_gestao_de_vendas/screenTelaLogin.png" width="300px" alt="tela login">
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://github.com/jonathansartorib/Java-Gestao-Clientes-Produtos/blob/main/Sistema_gestao_de_vendas/screenTelaProdutos.png" width="500px" alt="tela produtos">
+</p>
+
 ## Tecnologias Utilizadas
 
 - Java
